@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-egypt-canal-and-intervention-historian
-  name: Egypt Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-egypt-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_eg_001
+    name: Egypt Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_002
+    name: Egypt Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_003
+    name: Egypt Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_004
+    name: Egypt Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_005
+    name: Egypt Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_006
+    name: Egypt Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_007
+    name: Egypt Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_008
+    name: Egypt Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_009
+    name: Egypt Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_010
+    name: Egypt Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_011
+    name: Egypt Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_012
+    name: Egypt Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_013
+    name: Egypt Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_014
+    name: Egypt Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_015
+    name: Egypt Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_016
+    name: Egypt Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_017
+    name: Egypt Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_018
+    name: Egypt Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_019
+    name: Egypt Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_020
+    name: Egypt Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_021
+    name: Egypt Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_022
+    name: Egypt Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_023
+    name: Egypt Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_024
+    name: Egypt Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_025
+    name: Egypt Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_026
+    name: Egypt Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_027
+    name: Egypt Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_028
+    name: Egypt Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_029
+    name: Egypt Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_030
+    name: Egypt Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_031
+    name: Egypt Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_032
+    name: Egypt Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_033
+    name: Egypt Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_034
+    name: Egypt Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_035
+    name: Egypt Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_036
+    name: Egypt Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_037
+    name: Egypt Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_038
+    name: Egypt Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_039
+    name: Egypt Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_040
+    name: Egypt Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_041
+    name: Egypt Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_042
+    name: Egypt Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_043
+    name: Egypt Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_044
+    name: Egypt Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_045
+    name: Egypt Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_046
+    name: Egypt Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_047
+    name: Egypt Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_048
+    name: Egypt Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_049
+    name: Egypt Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_050
+    name: Egypt Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_051
+    name: Egypt Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_052
+    name: Egypt Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_053
+    name: Egypt Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_054
+    name: Egypt Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_055
+    name: Egypt Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_056
+    name: Egypt Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_057
+    name: Egypt Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_058
+    name: Egypt Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_059
+    name: Egypt Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_060
+    name: Egypt Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_061
+    name: Egypt Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_062
+    name: Egypt Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_063
+    name: Egypt Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_064
+    name: Egypt Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_065
+    name: Egypt Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_066
+    name: Egypt Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_067
+    name: Egypt Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_068
+    name: Egypt Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_069
+    name: Egypt Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_070
+    name: Egypt Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_071
+    name: Egypt Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_072
+    name: Egypt Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_073
+    name: Egypt Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_074
+    name: Egypt Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_075
+    name: Egypt Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_076
+    name: Egypt Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_077
+    name: Egypt Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_078
+    name: Egypt Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_079
+    name: Egypt Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_080
+    name: Egypt Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_081
+    name: Egypt Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_082
+    name: Egypt Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_083
+    name: Egypt Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_084
+    name: Egypt Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_085
+    name: Egypt Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_086
+    name: Egypt Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_087
+    name: Egypt Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_088
+    name: Egypt Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_089
+    name: Egypt Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_090
+    name: Egypt Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_091
+    name: Egypt Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_092
+    name: Egypt Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_093
+    name: Egypt Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_094
+    name: Egypt Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_095
+    name: Egypt Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_096
+    name: Egypt Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_097
+    name: Egypt Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_098
+    name: Egypt Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_099
+    name: Egypt Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_100
+    name: Egypt Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_101
+    name: Egypt Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_102
+    name: Egypt Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_103
+    name: Egypt Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_104
+    name: Egypt Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_105
+    name: Egypt Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_106
+    name: Egypt Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_107
+    name: Egypt Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_108
+    name: Egypt Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_109
+    name: Egypt Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_110
+    name: Egypt Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_111
+    name: Egypt Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_112
+    name: Egypt Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_113
+    name: Egypt Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_114
+    name: Egypt Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_115
+    name: Egypt Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_116
+    name: Egypt Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_117
+    name: Egypt Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_118
+    name: Egypt Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_119
+    name: Egypt Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_120
+    name: Egypt Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_121
+    name: Egypt Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_122
+    name: Egypt Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_123
+    name: Egypt Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_124
+    name: Egypt Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_125
+    name: Egypt Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_126
+    name: Egypt Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_127
+    name: Egypt Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_128
+    name: Egypt Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_129
+    name: Egypt Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_130
+    name: Egypt Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_131
+    name: Egypt Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_132
+    name: Egypt Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_133
+    name: Egypt Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_134
+    name: Egypt Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_135
+    name: Egypt Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_136
+    name: Egypt Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_137
+    name: Egypt Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_138
+    name: Egypt Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_139
+    name: Egypt Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_140
+    name: Egypt Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_141
+    name: Egypt Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_142
+    name: Egypt Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_143
+    name: Egypt Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_144
+    name: Egypt Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_145
+    name: Egypt Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_146
+    name: Egypt Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_147
+    name: Egypt Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_148
+    name: Egypt Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_149
+    name: Egypt Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_150
+    name: Egypt Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_151
+    name: Egypt Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_152
+    name: Egypt Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_153
+    name: Egypt Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_154
+    name: Egypt Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_155
+    name: Egypt Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_156
+    name: Egypt Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_157
+    name: Egypt Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_158
+    name: Egypt Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_159
+    name: Egypt Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_160
+    name: Egypt Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_161
+    name: Egypt Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_162
+    name: Egypt Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_163
+    name: Egypt Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_164
+    name: Egypt Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_165
+    name: Egypt Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_166
+    name: Egypt Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_167
+    name: Egypt Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_168
+    name: Egypt Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_169
+    name: Egypt Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_eg_170
+    name: Egypt Agent 170
+    status: ACTIVE_SCAFFOLD
