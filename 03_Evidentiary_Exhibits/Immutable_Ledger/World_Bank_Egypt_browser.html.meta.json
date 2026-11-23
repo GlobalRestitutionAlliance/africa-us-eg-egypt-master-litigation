@@ -1,0 +1,15 @@
+{
+  "url": "https://data.worldbank.org/country/egypt-arab-rep",
+  "final_url": "https://data.worldbank.org/country/egypt-arab-rep",
+  "title": "World Bank Egypt",
+  "fetched_at": "2026-11-23T02:12:01.456987Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 60013,
+  "sha256": "4b9d80dab8f861f60f5d673e8aaffd6be2bae1e20f29cdb7f905dfa0dd0f4a08",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review."
+}
