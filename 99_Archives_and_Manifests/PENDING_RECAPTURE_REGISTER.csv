@@ -1,4 +1,0 @@
-url,title,status,reason,recorded_at,repo,annotation_note
-https://digitallibrary.un.org/search,,PENDING_RECAPTURE,EMPTY_CAPTURE_PENDING_RECAPTURE,2026-11-23T08:32:43.411390Z,US_EG_EGYPT,Empty capture artifact (0 bytes); pending recapture.
-https://discovery.nationalarchives.gov.uk/details/a?_q=egypt+colonial,,PENDING_RECAPTURE,EMPTY_CAPTURE_PENDING_RECAPTURE,2026-11-23T08:32:43.411390Z,US_EG_EGYPT,"Empty capture artifact (0 bytes, http_status=202 in meta); pending recapture."
-https://www.loc.gov/item/?q=egypt+british+colonial+occupation,,PENDING_RECAPTURE,NOT_SUBSTANTIVE_404_PENDING_RECAPTURE,2026-11-23T08:32:43.411390Z,US_EG_EGYPT,Browser capture landed on LOC 404/not-found page; not substantive evidence. Pending recapture with corrected URL.
